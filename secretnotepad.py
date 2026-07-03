@@ -63,8 +63,6 @@ else:
     newaccount()
     username = ""
     login()
-    
-#67 mentioned!!!!!!!!!!(sndsf njsdhbcsbuawdfbsefupornoarfeueshusethusrdhfsye6rfh8ayw)
 
 vs = t.get(username)
 notes = vs[1]
